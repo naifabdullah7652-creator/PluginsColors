@@ -1,0 +1,5 @@
+name: PluginColors
+version: 1.0.1
+main: me.naif.plugincolors.PluginColors
+author: Naif
+description: Plugin color configuration for Minecraft 1.8.8
